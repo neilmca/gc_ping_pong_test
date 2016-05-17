@@ -1,0 +1,1 @@
+python "C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\google_appengine\appcfg.py" update module-pong.yaml -A mq-cloud-prototyping-2 --noauth_local_webserver -V4
